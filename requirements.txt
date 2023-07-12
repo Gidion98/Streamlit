@@ -1,4 +1,14 @@
 streamlit
 numpy
-pandas
-
+pandas==1.5.3
+scripy
+wordcloud
+nltk
+seaborn
+textblob
+json
+matplotlib
+scikit-learn
+gensim
+pyLDAvis
+pickle
